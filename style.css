@@ -4,7 +4,7 @@ body{
 }
 h1{font-size:50px;}
 .name-color{color:orange;}
-section {display: flex;}
+section {display: flex; margin-bottom: 150px;}
 
 .half-wide{width:50%; padding-left: 5%;}
 .half-wide img{
@@ -22,4 +22,11 @@ section {display: flex;}
 .banner-top{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.deam-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right:100px;
+    
 }
