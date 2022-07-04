@@ -4,7 +4,7 @@ body{
 }
 h1{font-size:50px;}
 .name-color{color:orange;}
-section {display: flex; margin-bottom: 150px;}
+.fexible-container {display: flex; margin-bottom: 150px;}
 
 .half-wide{width:50%; padding-left: 5%;}
 .half-wide img{
@@ -30,3 +30,24 @@ section {display: flex; margin-bottom: 150px;}
     padding-right:100px;
     
 }
+.heading-experiance{
+    
+    font-size: 40px;
+}
+.experiance-item{
+    width:50%;
+    box-shadow:10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    border-left:7px solid blue;
+    
+}
+.experiance-area{
+    background-image:url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+   
+}
+#full-stack-developer{border-left:7px solid tomato;}
