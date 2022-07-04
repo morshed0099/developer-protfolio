@@ -40,7 +40,7 @@ h1{font-size:50px;}
     margin-left: 5%;
     margin-right: 5%;
     padding: 10px;
-    border-left:7px solid blue;
+    
     
 }
 .experiance-area{
@@ -50,4 +50,6 @@ h1{font-size:50px;}
 
    
 }
+#baby-webdeveloper{border-left:7px solid blue;}
 #full-stack-developer{border-left:7px solid tomato;}
+footer p{text-align:center;}
